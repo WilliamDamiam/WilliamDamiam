@@ -1,4 +1,4 @@
-# Hi 👋, I'm Trương Hoàng Vũ, You Can Call Me is Damiam Vũ
+# Hi 👋, I'm Trương Hoàng Vũ, but you can call me Damian Vũ!
 
 ### 💻 Software Engineering Student | Vietnam 🇻🇳
 
