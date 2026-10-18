@@ -19,3 +19,11 @@
 Always learning, always exploring, and always improving.
 
 *Debugging code, but still searching for the right girl to complete my story. 💕*
+
+### 📬 Contact Me
+
+- 📧 **Email:** [dori140908@gmail.com](mailto:dori140908@gmail.com)
+- 🌐 **Facebook:** [Trương Hoàng Vũ](https://www.facebook.com/vuhoang.5654/)
+- 📸 **Instagram:** [@vuhoang_1528](https://www.instagram.com/vuhoang_1528/)
+
+💬 Feel free to reach out for collaboration, coding discussions, or just a friendly chat!
