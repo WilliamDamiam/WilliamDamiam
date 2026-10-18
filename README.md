@@ -1,6 +1,6 @@
 # Hi 👋, I'm Trương Hoàng Vũ, but you can call me Damian Vũ!
 
-### 💻 Computer Science Student | Vietnam 🇻🇳
+### 💻 Computer Science Student | Vietnam 🇻🇳 | Ho Chi Minh City Open University
 
 🎓 Passionate about Software Development and Cybersecurity.
 
