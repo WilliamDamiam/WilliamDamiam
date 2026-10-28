@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student | Vietnam 🇻🇳 | Ho Chi Minh City Open University
 
-🎓 Passionate about Software Development and Cybersecurity.
+🎓 Passionate about Web System
 
 🎵 Music Lover | 🕵️ Detective Stories | ❤️ Admirer of Beauty
 
