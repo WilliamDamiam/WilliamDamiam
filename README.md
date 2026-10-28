@@ -8,10 +8,10 @@
 
 ### 🚀 Tech Stack
 
-- **Languages:** C++, Java, JavaScript, TypeScript, Python
+- **Languages:** C++, Java, JavaScript, TypeScript
 - **Frontend:** HTML, CSS, ReactJS
 - **Backend:** Spring Boot
-- **Databases:** MySQL, SQL Server, PostgreSQL
+- **Databases:** MySQL, SQL Server
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Visual Studio,PyCharm
 
 ### ✨ A Little About Me
