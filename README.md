@@ -12,7 +12,7 @@
 - **Frontend:** HTML, CSS, ReactJS
 - **Backend:** Spring Boot
 - **Databases:** MySQL, SQL Server
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Visual Studio,PyCharm
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Visual Studio, Postman
 
 ### ✨ A Little About Me
 
