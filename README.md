@@ -13,6 +13,7 @@
 - **Backend:** Spring Boot
 - **Databases:** MySQL, SQL Server
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Visual Studio, Postman
+- **Core Skills:** Understanding and applying Data Structures and Algorithms (DSA) and Object Oriented Programming (OOP) in C++ and Java
 
 ### ✨ A Little About Me
 
